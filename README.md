@@ -2,7 +2,7 @@
 
 ## Description of the project and its functionality
 
-This project introduces responsive design, where your webpage adapts to different screen sizes.
+- This project introduces responsive design, where your webpage adapts to different screen sizes.
 
 ## Overview of Tech Stacks used
 
@@ -16,4 +16,4 @@ This project introduces responsive design, where your webpage adapts to differen
 
 This Webpage is deployed to GitHub Pages
 
-- Deployment Link:
+- [Deployment Link](https://Cuzlow.github.io/se_project_spots/index.html)
