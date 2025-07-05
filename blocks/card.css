@@ -11,6 +11,11 @@
   overflow: hidden;
   white-space: nowrap;
   width: 353px;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 500;
+  color: #212121;
+  margin: 12px 0;
 }
 
 .card__content {
@@ -32,7 +37,6 @@
 
 .card__like-btn:hover {
   opacity: 100%;
-  color: black;
 }
 
 @media screen and (max-width: 627px) {
