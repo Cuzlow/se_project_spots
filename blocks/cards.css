@@ -18,9 +18,7 @@
 
 @media screen and (max-width: 627px) {
   .cards {
-    padding-bottom: 12px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-bottom: 22px;
   }
   .cards__list {
     grid-template-columns: 1fr;
