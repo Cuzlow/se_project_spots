@@ -17,3 +17,5 @@
 This Webpage is deployed to GitHub Pages
 
 - [Deployment Link](https://Cuzlow.github.io/se_project_spots/index.html)
+
+- [Video Link]
