@@ -18,4 +18,4 @@ This Webpage is deployed to GitHub Pages
 
 - [Deployment Link](https://Cuzlow.github.io/se_project_spots/index.html)
 
-- [Video Link]
+- [Video Link] https://drive.google.com/file/d/1UDBtBo8N4sPxQPKptAYfLz1cYea1MHBI/view?usp=drive_link
